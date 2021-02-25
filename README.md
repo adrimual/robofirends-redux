@@ -1,5 +1,5 @@
 # robofriends
-React + Redux
+React + Redux from ZTM Course
 
 To run the project:
 
